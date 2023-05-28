@@ -1,8 +1,8 @@
 # Semicolon
 
 <div style='display: flex;'>
-<img src='https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-built_white.png' style='width: 80px'/>
-<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png'style='width: 80px'/>
+<img src='https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-built_white.png' style='height: 80px'/>
+<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png'style='height: 40px'/>
 <img src='https://cdn.webo.digital/uploads/2022/05/What-Is-Twilio-scaled.jpg'style='width: 80px'/>
 <img src='https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png' style='width: 80px'/>
  </div>
