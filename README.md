@@ -1,8 +1,8 @@
 # Semicolon
 
-<div>
+
 ![built with firebase](https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-built_white.png) ![django](https://static.djangoproject.com/img/logos/django-logo-negative.png) ![enter image description here](https://cdn.webo.digital/uploads/2022/05/What-Is-Twilio-scaled.jpg) ![flutter](https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png) ![Deploy on Railway](https://railway.app/button.svg)
-</div>
+
 
 Semicolon is an application platform that is comprehensive solution for people suffering with mental health issues. It is essential to maintain a good mindset and treat any mental health conditions so that constructive activities can be maintained. It is mainly focused on mental health state prediction and recommending activities, which allows individual to better understand his or her mental health state and also help to improve that state by suggesting him or her activities.
 ### Architecture
